@@ -1,8 +1,5 @@
 name: 'Gradle Java Composite'
 description: 'Combines all Gradle steps and JAVA setup'
-inputs:
-
-outputs:
 
 runs:
   using: "composite"
